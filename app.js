@@ -43,7 +43,7 @@ function handleError (err) {
 var config={
    host     : 'localhost',       
    user     : 'root',              
-   password : 'zsf2011211',       
+   password : '123456',       
    port: '3306',                   
    database: 'shufa', 
 };
